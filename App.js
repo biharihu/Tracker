@@ -1,5 +1,6 @@
 // npm run dev under track-server
 // ngrok http 3000 under tracks
+// and change the tracker base url
 
 import React from 'react';
 import { createAppContainer, createSwitchNavigator } from 'react-navigation';
